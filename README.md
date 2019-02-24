@@ -13,7 +13,7 @@
 * Closures
 * Enumeration
 * Structures and Classes
-* Properties
+* [Properties](Documentations/Properties.md "Properties")
 * Methods
 * Subscripts
 * Inheritance
