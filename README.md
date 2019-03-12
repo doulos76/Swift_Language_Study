@@ -29,3 +29,5 @@
 * Memory Safety
 * Access Control
 * Advanced Operators
+* [Equatable](Documentations/Equatable.md "Equatable")
+
