@@ -18,7 +18,7 @@
 * Subscripts
 * Inheritance
 * Initialization
-* Optional Chanining
+* [Optional](Documentations/Optional.md "Optional")
 * Error Handling
 * Type Casting
 * Nested Types
