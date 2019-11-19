@@ -11,7 +11,7 @@
 * Control Flow
 * Functions
 * Closures
-* Enumeration
+* [Enumeration](Documentations/Enumeration.md "Enumeration")
 * Structures and Classes
 * [Properties](Documentations/Properties.md "Properties")
 * Methods
